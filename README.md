@@ -10,9 +10,9 @@
 
 
 Features:
-    * Simple Regiter and Login Functionality
-    * Session integration functionality using GAESESSION
-    * Boostrap 3 template
+    1. Simple Regiter and Login Functionality
+    2. Session integration functionality using GAESESSION
+    3. Boostrap 3 template
 
 
 Fork Repo: git clone https://github.com/GoogleCloudPlatform/appengine-python-flask-skeleton.git
@@ -39,7 +39,6 @@ See the README file for directions. You'll need python 2.7 and [pip 1.4 or later
 
    ```
    cd appengine-python-flask-skeleton
-   pip install -r requirements.txt -t lib
    ```
 4. Run this project locally from the command line:
 
